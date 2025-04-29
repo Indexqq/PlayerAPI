@@ -1,0 +1,5 @@
+name: PlayerAPI
+version: 0.0.2-IX
+api: [5.23.1, 5.27.1]
+description: Un sistema completo y facil para guardar cualquier dato de jugadores de forma eficiente.
+author: IndexDev
