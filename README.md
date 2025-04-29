@@ -45,7 +45,7 @@ $data = PlayerDataAPI::getInstance()->getAll($player);
 ---
 
 ## 🗂️ Using Profiles
-BetterPlayerData supports **profiles** to separate data.
+PlayerAPI supports **profiles** to separate data.
 
 Example: saving money in the `skywars` profile:
 ```php
