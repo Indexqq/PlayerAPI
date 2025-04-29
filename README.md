@@ -10,7 +10,7 @@
 
 ---
 
-## 📚 What does BetterPlayerData offer?
+## 📚 What does PlayerAPI offer?
 - **Automatic** saving and loading of player data.
 - **Profile** support (different sets of data for the same player, e.g., survival, skywars, creative...).
 - Data stored in **JSON** format (easily editable if needed).
